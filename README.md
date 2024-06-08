@@ -1,12 +1,11 @@
-# Nombre Completo
+# Camila Yanguma
+## Diseño Hipermedio
 
 ## Acerca de mí
-Una breve descripción sobre ti, tu experiencia y tus intereses.
+Diseñadora gráfica y estudiante de Diseño Hipermedia en la Fundación Universitaria Los Libertadores. Apasionada por el diseño, me aventuro en el mundo del desarrollo web y el diseño de productos interactivos. Con una sólida formación en teoría del color, tipografía y composición visual, busco siempre crear experiencias visuales atractivas y funcionales. Me interesa la innovación y la creatividad, y disfruto trabajando en proyectos que integren tecnología y diseño para ofrecer soluciones únicas y efectivas.
 
 ## Contacto
-- **Email:** tu-email@example.com
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **GitHub:** [Perfil de GitHub](https://github.com/tu-usuario)
+- **LinkedIn:** [Perfil de LinkedIn](www.linkedin.com/in/camila-yanguma-3ab482230)
 
 ## Educación
 ### Nombre de la Institución
