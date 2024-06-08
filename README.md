@@ -11,6 +11,7 @@ Diseñadora gráfica y estudiante de Diseño Hipermedia en la Fundación Univers
 ## Proyectos
 ### Memory Game
 <img src="./img/Captura de pantalla (1).png"/>
+
 **Descripción:**
 esta es una variación de un juego de memoria, donde se aprendio a modificar el codigo en Javascript
 
@@ -18,6 +19,7 @@ esta es una variación de un juego de memoria, donde se aprendio a modificar el 
 
 ### Shrek_wazowski 
 <img src="./img/Captura de pantalla (4).png"/>
+
 **Descripción:**
 Mapa con elementos 3D añadidos en especifico un sherk wazowski
 
@@ -26,6 +28,7 @@ Mapa con elementos 3D añadidos en especifico un sherk wazowski
 
 ### Mi primer  hipermedia
 <img src="./img/Captura de pantalla (3).png"/>
+
 **Descripción:**
 Esta es una de mis primeros proyectos en HTML donde se aprendio a usar el codigo y las bases para hacer una pagina en html.
 
