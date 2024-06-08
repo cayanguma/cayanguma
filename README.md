@@ -25,7 +25,7 @@ Mapa con elementos 3D añadidos en especifico un sherk wazowski
 **Enlace al proyecto:** [Shrek_wazowski](https://codepen.io/cayanguma/pen/wvbzmYx)
 
 ### Mi primer  hipermedia
-<img src="./img/Captura de pantalla (3).png"/>
+<img src="./img/Captura de pantalla (4).png"/>
 **Descripción:**
 Esta es una de mis primeros proyectos en HTML donde se aprendio a usar el codigo y las bases para hacer una pagina en html.
 
