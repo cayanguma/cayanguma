@@ -1,5 +1,5 @@
 # Camila Yanguma
-## Diseño Hipermedio
+## Diseño Hipermedia
 
 ## Acerca de mí
 Diseñadora gráfica y estudiante de Diseño Hipermedia en la Fundación Universitaria Los Libertadores. Apasionada por el diseño, me aventuro en el mundo del desarrollo web y el diseño de productos interactivos. Con una sólida formación en teoría del color, tipografía y composición visual, busco siempre crear experiencias visuales atractivas y funcionales. Me interesa la innovación y la creatividad, y disfruto trabajando en proyectos que integren tecnología y diseño para ofrecer soluciones únicas y efectivas.
@@ -9,11 +9,11 @@ Diseñadora gráfica y estudiante de Diseño Hipermedia en la Fundación Univers
 
 
 ## Proyectos
-### Nombre del Proyecto
+### Memory Game
 **Descripción:**
-Breve descripción del proyecto, su propósito y tecnologías utilizadas.
+Juego de memoria para web.
 
-**Enlace al proyecto:** [Enlace al Proyecto](https://enlace-al-proyecto.com)
+**Enlace al proyecto:** [Memory Game](https://cayanguma.github.io/Memory-Game/)
 
 ### Nombre del Proyecto
 **Descripción:**
