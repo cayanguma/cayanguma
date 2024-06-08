@@ -1,20 +1,59 @@
-## Hi there 👋
+# Nombre Completo
 
-<!--doctype>
+## Acerca de mí
+Una breve descripción sobre ti, tu experiencia y tus intereses.
 
-<html> 
-<h1> Portafolio </h1>
-</html>
-**cayanguma/cayanguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contacto
+- **Email:** tu-email@example.com
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **GitHub:** [Perfil de GitHub](https://github.com/tu-usuario)
 
-Here are some ideas to get you started:
+## Educación
+### Nombre de la Institución
+**Grado Obtenido** - Fecha de Graduación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Descripción breve del programa, logros importantes y actividades relevantes.
+
+## Experiencia Profesional
+### Título del Puesto
+**Nombre de la Empresa** - Fechas de Empleo
+
+Descripción de tus responsabilidades y logros principales. Usa viñetas para mayor claridad:
+- Responsabilidad o logro 1
+- Responsabilidad o logro 2
+
+### Título del Puesto
+**Nombre de la Empresa** - Fechas de Empleo
+
+Descripción de tus responsabilidades y logros principales. Usa viñetas para mayor claridad:
+- Responsabilidad o logro 1
+- Responsabilidad o logro 2
+
+## Proyectos
+### Nombre del Proyecto
+**Descripción:**
+Breve descripción del proyecto, su propósito y tecnologías utilizadas.
+
+**Enlace al proyecto:** [Enlace al Proyecto](https://enlace-al-proyecto.com)
+
+### Nombre del Proyecto
+**Descripción:**
+Breve descripción del proyecto, su propósito y tecnologías utilizadas.
+
+**Enlace al proyecto:** [Enlace al Proyecto](https://enlace-al-proyecto.com)
+
+## Habilidades
+- Habilidad 1
+- Habilidad 2
+- Habilidad 3
+
+## Certificaciones
+### Nombre de la Certificación
+**Institución que Otorgó la Certificación** - Fecha de Obtención
+
+Breve descripción de la certificación y su relevancia.
+
+### Nombre de la Certificación
+**Institución que Otorgó la Certificación** - Fecha de Obtención
+
+Breve descripción de la certificación y su relevancia.
