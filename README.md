@@ -17,6 +17,7 @@ esta es una variación de un juego de memoria, donde se aprendio a modificar el 
 **Enlace al proyecto:** [Memory Game](https://cayanguma.github.io/Memory-Game/)
 
 ### Shrek_wazowski 
+<img src="./img/Captura de pantalla (2).png"/>
 **Descripción:**
 Mapa con elementos 3D añadidos en especifico un sherk wazowski
 
@@ -24,6 +25,7 @@ Mapa con elementos 3D añadidos en especifico un sherk wazowski
 **Enlace al proyecto:** [Shrek_wazowski](https://codepen.io/cayanguma/pen/wvbzmYx)
 
 ### Mi primer  hipermedia
+<img src="./img/Captura de pantalla (3).png"/>
 **Descripción:**
 Esta es una de mis primeros proyectos en HTML donde se aprendio a usar el codigo y las bases para hacer una pagina en html.
 
