@@ -11,20 +11,20 @@ Diseñadora gráfica y estudiante de Diseño Hipermedia en la Fundación Univers
 ## Proyectos
 ### Memory Game
 **Descripción:**
-Juego de memoria para web.
+esta es una variación de un juego de memoria, donde se aprendio a modificar el codigo en Javascript
 
 **Enlace al proyecto:** [Memory Game](https://cayanguma.github.io/Memory-Game/)
 
-### shrek_wazowski 
+### Shrek_wazowski 
 **Descripción:**
-Mapa con elementos 3D añadidos.
+Mapa con elementos 3D añadidos en especifico un sherk wazowski
 
 
 **Enlace al proyecto:** [Shrek_wazowski](https://codepen.io/cayanguma/pen/wvbzmYx)
 
-### Nombre del Proyecto
+### Mi primer  hipermedia
 **Descripción:**
-Breve descripción del proyecto, su propósito y tecnologías utilizadas.
+Esta es una de mis primeros proyectos en HTML donde se aprendio a usar el codigo y las bases para hacer una pagina en html.
 
-**Enlace al proyecto:** [Enlace al Proyecto](https://enlace-al-proyecto.com)
+**Enlace al proyecto:** [mi Primer Hipermedia](https://cayanguma.github.io/mi-primer-hipermedia/)
 
